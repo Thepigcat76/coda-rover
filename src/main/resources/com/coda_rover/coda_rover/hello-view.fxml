@@ -5,6 +5,7 @@
 <?import javafx.scene.layout.VBox?>
 
 <?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
 <VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
       fx:controller="com.coda_rover.coda_rover.HelloController">
   <padding>
@@ -13,4 +14,5 @@
 
   <Label fx:id="welcomeText"/>
   <Button text="Hello!" onAction="#onHelloClick"/>
+  <TextArea text="test" onMouseClicked="#onTextFieldClick"/>
 </VBox>

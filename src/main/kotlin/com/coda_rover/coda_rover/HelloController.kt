@@ -11,4 +11,9 @@ class HelloController {
     private fun onHelloClick() {
         welcomeText.text = "Greetings"
     }
+
+    @FXML
+    private fun onTextFieldClick() {
+        welcomeText.text = "updated text"
+    }
 }

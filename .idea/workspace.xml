@@ -4,13 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90f5622e-2ff5-4a0b-ab7b-d94806b68cd8" name="Changes" comment="" />
+    <list default="true" id="90f5622e-2ff5-4a0b-ab7b-d94806b68cd8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/hello-view.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2QLAGzsWEVgrTxjaagbTA4WAwYL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,6 +30,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/Admin/kotlin/coda_rover/coda_rover/src/main/resources/com/coda_rover/coda_rover/assets",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -31,6 +43,16 @@
       <recent name="C:\Users\Admin\kotlin\coda_rover\coda_rover\src\main\kotlin\com\coda_rover\coda_rover" />
       <recent name="C:\Users\Admin\kotlin\coda_rover\coda_rover\src\main\resources\com\coda_rover\coda_rover" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="JetRunConfigurationType">
+      <option name="MAIN_CLASS_NAME" value="com.coda_rover.coda_rover.HelloApplicationKt" />
+      <module name="coda_rover" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
