@@ -14,5 +14,5 @@
 
   <Label fx:id="welcomeText"/>
   <Button text="Hello!" onAction="#onHelloClick"/>
-  <TextArea text="test" onMouseClicked="#onTextFieldClick"/>
+  <TextArea fx:id="mainTextArea" text="test"/>
 </VBox>

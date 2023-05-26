@@ -2,10 +2,14 @@ package com.coda_rover.coda_rover
 
 import javafx.fxml.FXML
 import javafx.scene.control.Label
+import javafx.scene.control.TextArea
 
 class HelloController {
     @FXML
-    private lateinit var welcomeText: Label
+    lateinit var welcomeText: Label
+
+    @FXML
+    lateinit var mainTextArea: TextArea
 
     @FXML
     private fun onHelloClick() {
@@ -14,6 +18,14 @@ class HelloController {
 
     @FXML
     private fun onTextFieldClick() {
-        welcomeText.text = "updated text"
+        mainTextArea.text = "updated text"
+    }
+
+    fun initialize() {
+        mainTextArea.textProperty().addListener { _, _, newValue ->
+            if (newValue == "Hello") {
+                mainTextArea.text = "You entered 'Hello'!"
+            }
+        }
     }
 }
