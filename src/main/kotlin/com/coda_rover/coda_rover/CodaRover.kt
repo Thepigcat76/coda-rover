@@ -5,14 +5,13 @@ import javafx.fxml.FXMLLoader
 import javafx.scene.Scene
 import javafx.scene.control.TextArea
 import javafx.scene.image.Image
-import javafx.scene.layout.VBox
 import javafx.stage.Stage
 
-class HelloApplication : Application() {
+class CodaRover : Application() {
     override fun start(stage: Stage) {
-        val fxmlLoader = FXMLLoader(HelloApplication::class.java.getResource("hello-view.fxml"))
+        val fxmlLoader = FXMLLoader(CodaRover::class.java.getResource("coda_rover.fxml"))
         val scene = Scene(fxmlLoader.load(), 320.0, 240.0)
-        val controller = fxmlLoader.getController<HelloController>()
+        val controller = fxmlLoader.getController<CodaRoverController>()
         val mainTextArea: TextArea = controller.mainTextArea
 
         stage.title = "Hello!"
@@ -24,7 +23,7 @@ class HelloApplication : Application() {
     companion object {
         @JvmStatic
         fun main(args: Array<String>) {
-            launch(HelloApplication::class.java)
+            launch(CodaRover::class.java)
         }
     }
 }

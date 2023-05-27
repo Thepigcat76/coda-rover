@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90f5622e-2ff5-4a0b-ab7b-d94806b68cd8" name="Changes" comment="experiments">
+    <list default="true" id="90f5622e-2ff5-4a0b-ab7b-d94806b68cd8" name="Changes" comment="more work on the language">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/code_style_de.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/code_style_en.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/HelloApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/HelloApplication.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/HelloController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/HelloController.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/HelloApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/CodaRover.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/HelloController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/CodaRoverController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/coda_rover.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +25,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QLAGzsWEVgrTxjaagbTA4WAwYL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,12 +37,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Admin/kotlin/coda_rover/coda_rover/src/main/resources/com/coda_rover/coda_rover/assets",
+    "last_opened_file_path": "C:/Users/Admin/kotlin/coda_rover/coda_rover/src/main/resources/com/coda_rover/coda_rover",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\kotlin\coda_rover\coda_rover\src\main\resources\com\coda_rover\coda_rover" />
       <recent name="C:\Users\Admin\kotlin\coda_rover\coda_rover\src\main\resources\com\coda_rover\coda_rover\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -47,7 +53,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Run" type="JetRunConfigurationType">
-      <option name="MAIN_CLASS_NAME" value="com.coda_rover.coda_rover.HelloApplicationKt" />
+      <option name="MAIN_CLASS_NAME" value="com.coda_rover.coda_rover.CodaRover" />
       <module name="coda_rover" />
       <shortenClasspath name="NONE" />
       <method v="2">
@@ -71,11 +77,19 @@
       <option name="project" value="LOCAL" />
       <updated>1685131473034</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="more work on the language">
+      <created>1685136336977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685136336977</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="experiments" />
-    <option name="LAST_COMMIT_MESSAGE" value="experiments" />
+    <MESSAGE value="more work on the language" />
+    <option name="LAST_COMMIT_MESSAGE" value="more work on the language" />
   </component>
 </project>
