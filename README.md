@@ -1,5 +1,8 @@
 # coda-rover
-A moder, robot-karol inspired playgrounf for learning to code
+A modern, robot-karol inspired playground for learning to code
+
+# Techstack
+Kotlin, Java, JavaFX
 
 # Contributions
 If you want to contribute there are some restrictions:
