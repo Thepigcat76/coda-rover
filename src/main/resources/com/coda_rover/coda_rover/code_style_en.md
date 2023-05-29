@@ -44,7 +44,7 @@ while loops
 while loops (condition)
 
     repeat while condition:
-        ealk
+        walk
     endRepeat
 
 for loops
