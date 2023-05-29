@@ -16,3 +16,6 @@ If you want to contribute there are some restrictions:
     
     Tip:
     Create a discussion thread for features you would like to implement so you can make sure your features will be accepted
+
+# License
+MIT license Copyright (c) 2023 thepigcat76
