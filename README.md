@@ -1,6 +1,8 @@
 # coda-rover
 A modern, robot-karol inspired playground for learning to code
 
+# language
+At the moment development of coro (the language used to program coda rover is developed in [Thepigcat76/coro-interpreter](https://github.com/Thepigcat76/coro-interpreter)
 # Techstack
 Kotlin, Java, JavaFX
 
