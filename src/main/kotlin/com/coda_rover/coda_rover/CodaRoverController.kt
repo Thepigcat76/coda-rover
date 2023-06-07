@@ -16,13 +16,19 @@ class CodaRoverController {
     lateinit var mainTextArea: TextArea
 
     @FXML
-    private fun onHelloClick() {
+    private fun onOpenClick() {
         welcomeText.text = "Greetings"
+        FileHandling(filePath).openFile(filePath, mainTextArea)
     }
 
     @FXML
     private fun onTextFieldClick() {
         mainTextArea.text = "updated text"
+    }
+
+    @FXML
+    private fun onSaveClick() {
+        FileHandling(filePath).saveFile(mainTextArea)
     }
 
     fun initialize() {

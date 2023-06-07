@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90f5622e-2ff5-4a0b-ab7b-d94806b68cd8" name="Changes" comment="more work on the language">
+    <list default="true" id="90f5622e-2ff5-4a0b-ab7b-d94806b68cd8" name="Changes" comment="minor cleanups">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/CodaRover.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/CodaRover.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/CodaRoverController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/CodaRoverController.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/coda_rover.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/coda_rover.fxml" afterDir="false" />
     </list>
@@ -88,12 +89,20 @@
       <option name="project" value="LOCAL" />
       <updated>1685199373836</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="minor cleanups">
+      <created>1686169347168</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686169347168</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="experiments" />
     <MESSAGE value="more work on the language" />
-    <option name="LAST_COMMIT_MESSAGE" value="more work on the language" />
+    <MESSAGE value="minor cleanups" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor cleanups" />
   </component>
 </project>

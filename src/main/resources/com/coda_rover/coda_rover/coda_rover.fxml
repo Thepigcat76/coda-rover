@@ -15,6 +15,7 @@
 
   <Label fx:id="welcomeText"/>
   <TextField fx:id="filePath"/>
-  <Button text="Open" onAction="#onHelloClick"/>
+  <Button text="Open" onAction="#onOpenClick"/>
+  <Button text="Save" onAction="#onSaveClick"/>
   <TextArea fx:id="mainTextArea" text="test"/>
 </VBox>
