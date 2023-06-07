@@ -1,6 +1,8 @@
 # coda-rover
 A modern, robot-karol inspired playground for learning to code
 
+# language
+At the moment development of coro (the language used to program coda rover is developed in [Thepigcat76/coro-interpreter](https://github.com/Thepigcat76/coro-interpreter) repository
 # Techstack
 Kotlin, Java, JavaFX
 
@@ -14,3 +16,6 @@ If you want to contribute there are some restrictions:
     
     Tip:
     Create a discussion thread for features you would like to implement so you can make sure your features will be accepted
+
+# License
+MIT license Copyright (c) 2023 thepigcat76
