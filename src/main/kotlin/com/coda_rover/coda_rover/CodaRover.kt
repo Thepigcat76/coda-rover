@@ -4,6 +4,7 @@ import javafx.application.Application
 import javafx.fxml.FXMLLoader
 import javafx.scene.Scene
 import javafx.scene.control.TextArea
+import javafx.scene.control.TextField
 import javafx.scene.image.Image
 import javafx.stage.Stage
 
@@ -13,6 +14,7 @@ class CodaRover : Application() {
         val scene = Scene(fxmlLoader.load(), 320.0, 240.0)
         val controller = fxmlLoader.getController<CodaRoverController>()
         val mainTextArea: TextArea = controller.mainTextArea
+        val filePath: TextField = controller.filePath
 
         stage.title = "Hello!"
         stage.icons.add(Image("file:src/main/resources/com/coda_rover/coda_rover/catpig.png"))

@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90f5622e-2ff5-4a0b-ab7b-d94806b68cd8" name="Changes" comment="more work on the language">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/code_style_de.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/code_style_en.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/HelloApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/CodaRover.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/HelloController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/CodaRoverController.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/coda_rover.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/CodaRoverController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/coda_rover/coda_rover/CodaRoverController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/coda_rover.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/coda_rover/coda_rover/coda_rover.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Admin/kotlin/coda_rover/coda_rover/src/main/resources/com/coda_rover/coda_rover",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -84,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685136336977</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="more work on the language">
+      <created>1685199373836</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685199373836</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
